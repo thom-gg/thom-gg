@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Thomas 👋
 
-<!--
-**thom-gg/thom-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a HPC new grad, interested in writing high performance GPU kernels
 
-Here are some ideas to get you started:
+Previously I did freelance SWE work for blockchain projects, as you can see in my two pinned projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my free time I enjoy exploring HPC topics and writing about it on my blog: [https://thom.gg/](https://thom.gg/)
+
+### Recent posts:
+
+- [Ozaki Scheme - GEMM emulation](https://thom.gg/ozaki)
+- [GPU sorting algorithms - Radix Sort](https://thom.gg/sorting)
+- [DGEMM - Fighting cuBLAS #3 (~90%)](https://thom.gg/fighting-cublas-dgemm)
+
