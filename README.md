@@ -1,14 +1,14 @@
 ## Hi there, I'm Thomas 👋
 
-I'm a HPC new grad, interested in writing high performance GPU kernels
+I recently graduated with a degree in computer science specializing in High Performance Computing.
 
-Previously I did freelance SWE work for blockchain projects, as you can see in my two pinned projects
+Before starting HPC, I did freelance SWE work for blockchain projects (check out [solachess](https://github.com/thom-gg/solachess) or [this token sale repo](https://github.com/thom-gg/whitelist-gated-token-sale), both pinned on my profile).
 
-On my free time I enjoy exploring HPC topics and writing about it on my blog: [https://thom.gg/](https://thom.gg/)
+In my free time I enjoy exploring HPC topics and writing about them on my blog: [thom.gg](https://thom.gg/).
 
 ### Recent posts:
 
 - [Ozaki Scheme - GEMM emulation](https://thom.gg/ozaki)
 - [GPU sorting algorithms - Radix Sort](https://thom.gg/sorting)
-- [DGEMM - Fighting cuBLAS #3 (~90%)](https://thom.gg/fighting-cublas-dgemm)
+- [DGEMM - Fighting cuBLAS #3](https://thom.gg/fighting-cublas-dgemm)
 
